@@ -1,0 +1,6 @@
+com\jsonplaceholder\todos\TodosMapper.class
+com\jsonplaceholder\todos\TodosApplication.class
+com\jsonplaceholder\todos\TodosController.class
+com\jsonplaceholder\todos\Todos.class
+com\jsonplaceholder\todos\TodosService.class
+com\jsonplaceholder\todos\TodosRepository.class
